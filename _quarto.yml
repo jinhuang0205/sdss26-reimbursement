@@ -1,8 +1,13 @@
 project:
   type: website
+  output-dir: _site
+
 
 website:
   title: "SDS Summit 2026 Reimbursement"
+  site-url: https://jinhuang0205.github.io/sdss26-reimbursement/
+  base-url: /sdss26-reimbursement/
+
   navbar:
     left:
       - href: index.qmd
