@@ -1,0 +1,156 @@
+---
+title: Reimbursement for Foreign Individual
+---
+## For tax purposes which best describes you?
+The refund will goes directly to you, so you may choose "individual or sole proprietorship"
+![](files/tax_info.png)
+
+## Provide your tax information
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+**Resident Alien (for U.S. tax purposes)**
+
+You are considered a resident alien if you meet either of the following IRS tests:
+
+- **Green Card Test**: You are a lawful permanent resident of the United States at any time during the tax year; or
+- **Substantial Presence Test**: You meet the IRS physical presence requirements based on the number of days you were present in the U.S. over the past three years.
+- If you meet either test, you are treated as a U.S. person for tax purposes and should generally complete **Form W-9**, not **Form W-8BEN**.
+- Please1 click the link on the web to got thoes forms
+:::
+:::
+
+::: {.column width="50%"}
+![](files/tax_info_intl.png){width=100%}
+:::
+
+:::
+
+## Personal and Address Information
+
+::: {.callout-note}
+__Remittance Address__:  
+Address where payment should be sent (e.g., check mailing address).
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](files/personal_info.png){width=100%}
+:::
+
+::: {.column width="50%"}
+![](files/primary_address_uk.png){width=100%}
+:::
+:::
+
+
+## Additional Information 
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+- In general, you can simply complete it by following what is shown in the image.
+- If you are SDSU/SDSURF student or employee you will need to fill your sdsuid
+- These questions apply mainly to established businesses.
+  - Do you accept credit cards?
+  - Do you accept Purchase Orders?  
+    Individuals can usually select **No**.
+:::
+:::
+
+::: {.column width="50%"}
+![](files/additional_info_intl.png){width=100%}
+:::
+:::
+
+
+## Foreign Individual Tax Information
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+Reimbursements are not taxed; they would not qualify for tax treaty benefits, so you can ignore **Form 8233**.
+:::
+:::
+
+::: {.column width="50%"}
+![](files/intl_tax_info.png){width=100%}
+:::
+
+:::
+
+
+
+### Conflict of interest
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+In general, choose **No** as most of us are just requesting travel reimbursement.
+:::
+:::
+
+::: {.column width="50%"}
+![](files/conflict_of_interest.png){width=100%}
+:::
+:::
+
+## Payment information
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+- **Wire**: Electronic bank transfer (faster, recommended for foreign bank accounts).
+- **Check**: Paper check sent by mail (slower, higher risk, not recommended for foreign accounts).
+:::
+:::
+
+::: {.column width="50%"}
+![](files/foreign_bank.png){width=100%}
+:::
+
+:::
+
+
+## Provide Your Bank Information
+
+::: {.callout-note}
+The backup document is used to verify that the information entered on the registration form is accurate.  
+A document that includes **your bank routing number** and **your full bank account number** is preferred.
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](files/bank_info.png){width=100%}
+:::
+
+::: {.column width="50%"}
+![](files/bank_info2.png){width=100%}
+:::
+
+:::
+
+
+### Bank Address Information
+
+::: {.columns}
+
+::: {.column width="40%"}
+::: {.callout-note}
+The bank address does not have to be the branch where you originally opened your account.  
+For example, if your bank account is with **Chase**, you may enter the address of **any Chase branch that is close to you**.
+:::
+:::
+
+::: {.column width="60%"}
+![](files/bank_info3.png){width=100%}
+:::
+
+:::

@@ -1,0 +1,331 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "",
+    "text": "Receipts for transportation/lodging.\nA filled Travel reimbursement PDF form\n\nPlease Submit them though (Link)"
+  },
+  {
+    "objectID": " Process.html",
+    "href": " Process.html",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "",
+    "text": "Receipts for transportation/lodging.\nA filled Travel reimbursement PDF form\n\nPlease Submit them though (Link)"
+  },
+  {
+    "objectID": " Process.html#hello-quarto",
+    "href": " Process.html#hello-quarto",
+    "title": "Self Contained HTML",
+    "section": "",
+    "text": "这是一个 Quarto 文档。\nimport pandas as pd\ndf = pd.DataFrame({ “城市”: [“A”, “B”, “C”], “指数”: [1.2, 2.3, 3.1] }) df"
+  },
+  {
+    "objectID": "index.html#what-you-need-checklist",
+    "href": "index.html#what-you-need-checklist",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "",
+    "text": "Receipts for transportation/lodging;\nTravel reimbursement PDF form"
+  },
+  {
+    "objectID": "index.html#required-document",
+    "href": "index.html#required-document",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "",
+    "text": "Receipts for transportation/lodging;\nTravel reimbursement PDF form"
+  },
+  {
+    "objectID": "index.html#each-attendee-will-receive-email-to-register-as-vendor.",
+    "href": "index.html#each-attendee-will-receive-email-to-register-as-vendor.",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Each attendee will receive email to register as vendor.",
+    "text": "Each attendee will receive email to register as vendor."
+  },
+  {
+    "objectID": "index.html#vendor-opens-the-email-and-clicks-the-link",
+    "href": "index.html#vendor-opens-the-email-and-clicks-the-link",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Vendor opens the email and clicks the link",
+    "text": "Vendor opens the email and clicks the link"
+  },
+  {
+    "objectID": "index.html#vendor-submits-registration-informationindividual-information-address-details-banking-information-etc.",
+    "href": "index.html#vendor-submits-registration-informationindividual-information-address-details-banking-information-etc.",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Vendor submits registration information(Individual information, Address details, Banking information, etc.",
+    "text": "Vendor submits registration information(Individual information, Address details, Banking information, etc."
+  },
+  {
+    "objectID": "index.html#after-internal-review-and-approval-vendor-will-be-ready-for-payment-or-reimbursement",
+    "href": "index.html#after-internal-review-and-approval-vendor-will-be-ready-for-payment-or-reimbursement",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "After Internal review and approval, Vendor will be ready for payment or reimbursement",
+    "text": "After Internal review and approval, Vendor will be ready for payment or reimbursement"
+  },
+  {
+    "objectID": "index.html#vendor-submits-registration-informationsee-tabs",
+    "href": "index.html#vendor-submits-registration-informationsee-tabs",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Vendor submits registration information(See Tabs)",
+    "text": "Vendor submits registration information(See Tabs)\nAfter Internal review and approval, Vendor will be ready for payment or reimbursement"
+  },
+  {
+    "objectID": "index.html#required-documents",
+    "href": "index.html#required-documents",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "",
+    "text": "Receipts for transportation/lodging.\nA filled Travel reimbursement PDF form\n\nPlease Submit them though (Link)"
+  },
+  {
+    "objectID": "index.html#general-process",
+    "href": "index.html#general-process",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "General Process",
+    "text": "General Process\n\nStep 1: Vendor registration email\n\n\nEach attendee will receive an email invitation to register as a vendor in PaymentWorks.\n\n\n\n\n\n\nStep 2: Register your account\n\n\nAfter completing the registration form, you will receive an activation email and log in again to continue.\n\n\n\n\n\n\nStep 3: Multi-Factor Authentication\n\n\nYou will be asked to complete multi-factor authentication using your phone number.\n\n\n\n\n\n\nFinal step: Complete forms based on your tax residency\nUse the tabs above to choose your category (US Individual or International Individual).\nAfter registration, internal review, and approval, you will be set up as a vendor and ready for payment or reimbursement."
+  },
+  {
+    "objectID": "registration-us.html",
+    "href": "registration-us.html",
+    "title": "Reimbursement for US Individual",
+    "section": "",
+    "text": "The refund will goes directly to you, so you may choose “individual or sole proprietorship”"
+  },
+  {
+    "objectID": "registration-us.html#provide-your-tax-information",
+    "href": "registration-us.html#provide-your-tax-information",
+    "title": "Reimbursement for US Individual",
+    "section": "Provide your tax information",
+    "text": "Provide your tax information"
+  },
+  {
+    "objectID": "registration-us.html#generate-electronic-w-9",
+    "href": "registration-us.html#generate-electronic-w-9",
+    "title": "Reimbursement for US Individual",
+    "section": "Generate Electronic W-9",
+    "text": "Generate Electronic W-9\n\n\n\n\n\n\n\n\nNote\n\n\n\nIf you are:\n\na U.S. citizen, green card holder, or U.S. tax resident (resident alien), and\nyou have a valid SSN or EIN, and\nyou have NOT received any official notice from the IRS stating that you are subject to backup withholding,\n\nthen you may generally select:\n\nGenerate Electronic W-9 → Yes\nBackup Withholding → leave this box checked\nCitizenship → U.S. citizen or other U.S. person"
+  },
+  {
+    "objectID": "registration-us.html#generate-electronic-w-9-1",
+    "href": "registration-us.html#generate-electronic-w-9-1",
+    "title": "Reimbursement for US Individual",
+    "section": "Generate Electronic W-9",
+    "text": "Generate Electronic W-9\n\n\n\n\n\n\n\n\nNote\n\n\n\nIf you are:\n\na U.S. citizen, green card holder, or U.S. tax resident (resident alien), and\nyou have a valid SSN or EIN, and\nyou have NOT received any official notice from the IRS stating that you are subject to backup withholding,\n\nthen you may generally select:\n\nGenerate Electronic W-9 → Yes\nBackup Withholding → leave this box checked\nCitizenship → U.S. citizen or other U.S. person"
+  },
+  {
+    "objectID": "registration-us.html#provide-your-personal-information",
+    "href": "registration-us.html#provide-your-personal-information",
+    "title": "Reimbursement for US Individual",
+    "section": "Provide your personal information",
+    "text": "Provide your personal information"
+  },
+  {
+    "objectID": "registration-us.html#provide-your-address",
+    "href": "registration-us.html#provide-your-address",
+    "title": "Reimbursement for US Individual",
+    "section": "Provide your address",
+    "text": "Provide your address\n\nRemittance Address: Address where payment should be sent (e.g., check mailing address)."
+  },
+  {
+    "objectID": "registration-us.html#for-tax-purposes-which-best-describes-you",
+    "href": "registration-us.html#for-tax-purposes-which-best-describes-you",
+    "title": "Reimbursement for US Individual",
+    "section": "",
+    "text": "The refund will goes directly to you, so you may choose “individual or sole proprietorship”"
+  },
+  {
+    "objectID": "registration-us.html#additional-information",
+    "href": "registration-us.html#additional-information",
+    "title": "Reimbursement for US Individual",
+    "section": "Additional Information",
+    "text": "Additional Information\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nIn general, you can simply complete it by following what is shown in the image.\nIf you are SDSU/SDSURF student or employee you will need to fill your sdsuid\nThese questions apply mainly to established businesses.\n\nDo you accept credit cards?\nDo you accept Purchase Orders?\nIndividuals can usually select No.\n\n\n\n\n\n\n\n\n\nConflict of interest\n\n\n\n\n\n\n\n\nNote\n\n\n\nIn general, choose No as most of us are just requesting travel reimbursement.\n\n\n\n\n\n\n\n\nPayment option\n\n\n\n\n\n\n\n\nNote\n\n\n\nACH is recommended for direct deposit to your bank account."
+  },
+  {
+    "objectID": "registration-us.html#conflict-of-interest",
+    "href": "registration-us.html#conflict-of-interest",
+    "title": "Reimbursement for US Individual",
+    "section": "Conflict of interest",
+    "text": "Conflict of interest"
+  },
+  {
+    "objectID": "registration-us.html#payment-and-banking-information",
+    "href": "registration-us.html#payment-and-banking-information",
+    "title": "Reimbursement for US Individual",
+    "section": "Payment and banking information",
+    "text": "Payment and banking information\nACH is recommended for direct deposit to your bank account."
+  },
+  {
+    "objectID": "registration-us.html#provide-your-bank-information",
+    "href": "registration-us.html#provide-your-bank-information",
+    "title": "Reimbursement for US Individual",
+    "section": "Provide Your Bank Information",
+    "text": "Provide Your Bank Information\n\n\n\n\n\n\nNote\n\n\n\nThe backup document is used to verify that the information entered on the registration form is accurate.\nA document that includes your bank routing number and your full bank account number is preferred.\n\n\n\n\n\n\n\n\n\n\nBank Address Information\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe bank address does not have to be the branch where you originally opened your account.\nFor example, if your bank account is with Chase, you may enter the address of any Chase branch that is close to you."
+  },
+  {
+    "objectID": "registration-us.html#provide-your-bank-information-1",
+    "href": "registration-us.html#provide-your-bank-information-1",
+    "title": "Reimbursement for US Individual",
+    "section": "Provide Your Bank Information",
+    "text": "Provide Your Bank Information\n\n\n\n\n\n\nNote\n\n\n\nThe backup document is used to verify that the information entered on the registration form is accurate.\nA document that includes your bank routing number and your full bank account number is preferred.\n\n\n\n\n\n\n\n\n\n\nBank Address Information\n\n\n\n\n\n\nNote\n\n\n\nThe bank address does not have to be the branch where you originally opened your account.\nFor example, if your bank account is with Chase, you may enter the address of any Chase branch that is close to you."
+  },
+  {
+    "objectID": "registration-foreign.html",
+    "href": "registration-foreign.html",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "",
+    "text": "The refund will goes directly to you, so you may choose “individual or sole proprietorship”"
+  },
+  {
+    "objectID": "registration-foreign.html#for-tax-purposes-which-best-describes-you",
+    "href": "registration-foreign.html#for-tax-purposes-which-best-describes-you",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "",
+    "text": "The refund will goes directly to you, so you may choose “individual or sole proprietorship”"
+  },
+  {
+    "objectID": "registration-foreign.html#provide-your-tax-information",
+    "href": "registration-foreign.html#provide-your-tax-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Provide your tax information",
+    "text": "Provide your tax information\n\n\n\n\n\n\n\n\nNote\n\n\n\nResident Alien (for U.S. tax purposes)\nYou are considered a resident alien if you meet either of the following IRS tests:\n\nGreen Card Test: You are a lawful permanent resident of the United States at any time during the tax year; or\nSubstantial Presence Test: You meet the IRS physical presence requirements based on the number of days you were present in the U.S. over the past three years.\nIf you meet either test, you are treated as a U.S. person for tax purposes and should generally complete Form W-9, not Form W-8BEN.\nPlease1 click the link on the web to got thoes forms"
+  },
+  {
+    "objectID": "registration-foreign.html#provide-your-personal-information",
+    "href": "registration-foreign.html#provide-your-personal-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Provide your personal information",
+    "text": "Provide your personal information"
+  },
+  {
+    "objectID": "registration-foreign.html#provide-your-address",
+    "href": "registration-foreign.html#provide-your-address",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Provide your address",
+    "text": "Provide your address\n\nRemittance Address: Address where payment should be sent (e.g., check mailing address)."
+  },
+  {
+    "objectID": "registration-foreign.html#additional-information",
+    "href": "registration-foreign.html#additional-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Additional Information",
+    "text": "Additional Information\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nIn general, you can simply complete it by following what is shown in the image.\nIf you are SDSU/SDSURF student or employee you will need to fill your sdsuid\nThese questions apply mainly to established businesses.\n\nDo you accept credit cards?\nDo you accept Purchase Orders?\nIndividuals can usually select No."
+  },
+  {
+    "objectID": "registration-foreign.html#foreign-individual-tax-information",
+    "href": "registration-foreign.html#foreign-individual-tax-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Foreign Individual Tax Information",
+    "text": "Foreign Individual Tax Information\n\n\n\n\n\n\n\n\nNote\n\n\n\nReimbursements are not taxed; they would not qualify for tax treaty benefits, so you can ignore Form 8233.\n\n\n\n\n\n\n\nConflict of interest\n\n\n\n\n\n\n\n\nNote\n\n\n\nIn general, choose No as most of us are just requesting travel reimbursement."
+  },
+  {
+    "objectID": "registration-foreign.html#payment-and-banking-information",
+    "href": "registration-foreign.html#payment-and-banking-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Payment and banking information",
+    "text": "Payment and banking information\n\n\n\n\n\n\nNote\n\n\n\n\nWire: Electronic bank transfer (faster, recommended for foreign bank accounts).\nCheck: Paper check sent by mail (slower, higher risk, not recommended for foreign accounts).\n\n\n\n\nforeign"
+  },
+  {
+    "objectID": "registration-foreign.html#payment-information",
+    "href": "registration-foreign.html#payment-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Payment information",
+    "text": "Payment information\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nWire: Electronic bank transfer (faster, recommended for foreign bank accounts).\nCheck: Paper check sent by mail (slower, higher risk, not recommended for foreign accounts)."
+  },
+  {
+    "objectID": "registration-foreign.html#provide-your-bank-information",
+    "href": "registration-foreign.html#provide-your-bank-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Provide Your Bank Information",
+    "text": "Provide Your Bank Information\n\n\n\n\n\n\nNote\n\n\n\nThe backup document is used to verify that the information entered on the registration form is accurate.\nA document that includes your bank routing number and your full bank account number is preferred.\n\n\n\n\n\n\n\n\n\n\nBank Address Information\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe bank address does not have to be the branch where you originally opened your account.\nFor example, if your bank account is with Chase, you may enter the address of any Chase branch that is close to you."
+  },
+  {
+    "objectID": "registration-foreign.html#personal-and-address-information",
+    "href": "registration-foreign.html#personal-and-address-information",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Personal and Address Information",
+    "text": "Personal and Address Information\n\n\n\n\n\n\nNote\n\n\n\nRemittance Address:\nAddress where payment should be sent (e.g., check mailing address)."
+  },
+  {
+    "objectID": "registration-foreign.html#payment-information-1",
+    "href": "registration-foreign.html#payment-information-1",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Payment information",
+    "text": "Payment information\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nWire: Electronic bank transfer (faster, recommended for foreign bank accounts).\nCheck: Paper check sent by mail (slower, higher risk, not recommended for foreign accounts)."
+  },
+  {
+    "objectID": "registration-foreign.html#provide-your-bank-information-1",
+    "href": "registration-foreign.html#provide-your-bank-information-1",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Provide Your Bank Information",
+    "text": "Provide Your Bank Information\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe backup document is used to verify that the information entered on the registration form is accurate.\nA document that includes your bank routing number and your full bank account number is preferred.\n\n\n\nBank Address Information\n\n\n\n\n\n\nNote\n\n\n\nThe bank address does not have to be the branch where you originally opened your account.\nFor example, if your bank account is with Chase, you may enter the address of any Chase branch that is close to you."
+  },
+  {
+    "objectID": "registration-us.html#personal-and-address-information",
+    "href": "registration-us.html#personal-and-address-information",
+    "title": "Reimbursement for US Individual",
+    "section": "Personal and Address Information",
+    "text": "Personal and Address Information\n\n\n\n\n\n\nNote\n\n\n\nRemittance Address:\nAddress where payment should be sent (e.g., check mailing address)."
+  },
+  {
+    "objectID": "registration-us.html#additional-information-1",
+    "href": "registration-us.html#additional-information-1",
+    "title": "Reimbursement for US Individual",
+    "section": "Additional Information",
+    "text": "Additional Information\n\n\n\n\n\n\nNote\n\n\n\n\nIn general, you can simply complete it by following what is shown in the image.\nIf you are SDSU/SDSURF student or employee you will need to fill your sdsuid\nThese questions apply mainly to established businesses.\n\nDo you accept credit cards? Do you accept Purchase Orders? Individuals can usually select No\n\n\n\n\n\n\n\n\nConflict of interest\nIn general, choose No as most of us just requesting travel reimbursement."
+  },
+  {
+    "objectID": "registration-foreign.html#additional-information-1",
+    "href": "registration-foreign.html#additional-information-1",
+    "title": "Reimbursement for Foreign Individual",
+    "section": "Additional Information",
+    "text": "Additional Information\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nIn general, you can simply complete it by following what is shown in the image.\nIf you are SDSU/SDSURF student or employee you will need to fill your sdsuid\nThese questions apply mainly to established businesses.\n\nDo you accept credit cards?\nDo you accept Purchase Orders?\nIndividuals can usually select No."
+  },
+  {
+    "objectID": "registration-us.html#payment-option",
+    "href": "registration-us.html#payment-option",
+    "title": "Reimbursement for US Individual",
+    "section": "Payment option",
+    "text": "Payment option\n\n\n\n\n\n\n\n\nNote\n\n\n\nACH is recommended for direct deposit to your bank account."
+  },
+  {
+    "objectID": "index.html#general-process-1",
+    "href": "index.html#general-process-1",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "General Process",
+    "text": "General Process\n\n\n\n\nStep 1: Vendor registration email\nEach attendee will receive an email invitation to register as a vendor in PaymentWorks.\n\n\n\n\n\n\n\n\nStep 2: Register your account\nAfter completing the registration form, you will receive an activation email and log in again to continue.\n\n\n\n\n\n\n\n\nStep 3: Multi-Factor Authentication\nYou will be asked to complete multi-factor authentication using your phone number.\n\n\n\n\n\n\n\nFinal step: Complete information based on your tax residency\nAfter registration, internal review, and approval, you will be set up as a vendor and ready for payment or reimbursement."
+  },
+  {
+    "objectID": "index.html#step-1-vendor-registration-email",
+    "href": "index.html#step-1-vendor-registration-email",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Step 1: Vendor registration email",
+    "text": "Step 1: Vendor registration email\nEach attendee will receive an email invitation to register as a vendor in PaymentWorks."
+  },
+  {
+    "objectID": "index.html#step-2-register-your-account",
+    "href": "index.html#step-2-register-your-account",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Step 2: Register your account",
+    "text": "Step 2: Register your account\nAfter completing the registration form, you will receive an activation email and log in again to continue."
+  },
+  {
+    "objectID": "index.html#step-3-multi-factor-authentication",
+    "href": "index.html#step-3-multi-factor-authentication",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "Step 3: Multi-Factor Authentication",
+    "text": "Step 3: Multi-Factor Authentication\nYou will be asked to complete multi-factor authentication using your phone number."
+  },
+  {
+    "objectID": " Process.html#required-documents",
+    "href": " Process.html#required-documents",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "",
+    "text": "Receipts for transportation/lodging.\nA filled Travel reimbursement PDF form\n\nPlease Submit them though (Link)"
+  },
+  {
+    "objectID": " Process.html#general-process",
+    "href": " Process.html#general-process",
+    "title": "Spatial Data Science Summit 2026 Reimbursement Information",
+    "section": "General Process",
+    "text": "General Process\n\n\n\nStep 1: Vendor registration email\nEach attendee will receive an email invitation to register as a vendor in PaymentWorks.\n\n\n\n\n\n\n:::\n\n\n\nStep 2: Register your account\nAfter completing the registration form, you will receive an activation email and log in again to continue.\n\n\n\n\n\n\n:::\n\n\n\nStep 3: Multi-Factor Authentication\nYou will be asked to complete multi-factor authentication using your phone number.\n\n\n\n\n\n\n:::\n\nFinal step: Complete information based on your tax residency\nAfter registration, internal review, and approval, you will be set up as a vendor and ready for payment or reimbursement."
+  }
+]

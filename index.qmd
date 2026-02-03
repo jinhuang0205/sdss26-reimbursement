@@ -1,0 +1,59 @@
+---
+title: Spatial Data Science Summit 2026 Reimbursement Information
+---
+
+## Required documents:
+- Receipts for transportation/lodging. 
+- A filled [Travel reimbursement PDF form](files/Travelreimbursementform.pdf)
+
+**Please Submit them though (Link)**
+
+## General Process
+### Step 1: Vendor registration email
+::: {.columns}
+
+::: {.column width="45%"}
+
+Each attendee will receive an email invitation to register as a vendor in PaymentWorks.
+:::
+
+::: {.column width="55%"}
+![](files/invitation_email.png){width=90% fig-alt="Vendor registration invitation email"}
+:::
+
+:::
+
+### Step 2: Register your account
+::: {.columns}
+
+::: {.column width="45%"}
+
+After completing the registration form, you will receive an activation email and log in again to continue.
+:::
+
+::: {.column width="55%"}
+![](files/register1.png){width=90% fig-alt="Vendor registration screen"}
+:::
+
+:::
+
+### Step 3: Multi-Factor Authentication
+::: {.columns}
+
+::: {.column width="45%"}
+
+You will be asked to complete multi-factor authentication using your phone number.
+:::
+
+::: {.column width="55%"}
+![](files/multifactor.png){width=90% fig-alt="Multi-factor authentication screen"}
+:::
+
+:::
+
+### Final step: Complete forms based on your tax residency
+Use the tabs above to choose your category (US Individual or International Individual). 
+
+After registration, internal review, and approval, you will be set up as a vendor and ready for payment or reimbursement.
+
+

@@ -1,0 +1,144 @@
+---
+title: Reimbursement for US Individual
+---
+## For tax purposes which best describes you?
+The refund will goes directly to you, so you may choose "individual or sole proprietorship"
+![](files/tax_info.png)
+
+
+## Provide your tax information
+<img src="files/tax_info2.png" style="width:30%;">
+
+## Generate Electronic W-9
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+If you are:
+
+- a U.S. citizen, green card holder, or U.S. tax resident (resident alien), and
+- you have a valid SSN or EIN, and
+- you have **NOT** received any official notice from the IRS stating that you are subject to backup withholding,
+
+then you may generally select:
+
+- **Generate Electronic W-9** → **Yes**
+- **Backup Withholding** → leave this box checked
+- **Citizenship** → U.S. citizen or other U.S. person
+:::
+:::
+
+::: {.column width="50%"}
+![](files/generate_w_9.png){width=100% fig-alt="Generate Electronic W-9 settings screen"}
+:::
+
+:::
+
+
+## Personal and Address Information
+
+::: {.callout-note}
+__Remittance Address__:  
+Address where payment should be sent (e.g., check mailing address).
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](files/personal_info.png){width=100%}
+:::
+
+::: {.column width="50%"}
+![](files/primary_address.png){width=100%}
+:::
+:::
+
+
+## Additional Information 
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+- In general, you can simply complete it by following what is shown in the image.
+- If you are SDSU/SDSURF student or employee you will need to fill your sdsuid
+- These questions apply mainly to established businesses.
+  - Do you accept credit cards?
+  - Do you accept Purchase Orders?  
+    Individuals can usually select **No**.
+:::
+:::
+
+::: {.column width="50%"}
+![](files/additional_info1.png){width=100%}
+:::
+
+:::
+
+
+### Conflict of interest
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+In general, choose **No** as most of us are just requesting travel reimbursement.
+:::
+:::
+
+::: {.column width="50%"}
+![](files/conflict_of_interest.png){width=100%}
+:::
+:::
+
+### Payment option
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note}
+ACH is recommended for direct deposit to your bank account.
+:::
+:::
+
+::: {.column width="50%"}
+![](files/payment_us.png){width=100%}
+:::
+:::
+
+
+## Provide Your Bank Information
+
+::: {.callout-note}
+The backup document is used to verify that the information entered on the registration form is accurate.  
+A document that includes **your bank routing number** and **your full bank account number** is preferred.
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](files/bank_info.png){width=100%}
+:::
+
+::: {.column width="50%"}
+![](files/bank_info2.png){width=100%}
+:::
+
+:::
+
+### Bank Address Information
+
+::: {.columns}
+
+::: {.column width="40%"}
+::: {.callout-note}
+The bank address does not have to be the branch where you originally opened your account.  
+For example, if your bank account is with **Chase**, you may enter the address of **any Chase branch that is close to you**.
+:::
+:::
+
+::: {.column width="60%"}
+![](files/bank_info3.png){width=100%}
+:::
+
+:::
