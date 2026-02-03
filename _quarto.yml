@@ -5,8 +5,8 @@ project:
 
 website:
   title: "SDS Summit 2026 Reimbursement"
-  site-url: https://jinhuang0205.github.io/sdss26-reimbursement/
-  base-url: /sdss26-reimbursement/
+  site-url: https://jinhuang0205.github.io
+  site-path: /sdss26-reimbursement/
 
   navbar:
     left:
