@@ -2,7 +2,7 @@
 title: Reimbursement for US Individual
 ---
 ## For tax purposes which best describes you?
-The refund will goes directly to you, so you may choose "individual or sole proprietorship"
+The refund will go directly to you, so you may choose "individual or sole proprietorship"
 ![](files/tax_info.png)
 
 
@@ -135,9 +135,12 @@ A document that includes **your bank routing number** and **your full bank accou
 The bank address does not have to be the branch where you originally opened your account.  
 For example, if your bank account is with **Chase**, you may enter the address of **any Chase branch that is close to you**. Or you may use the bank address listed on your bank statement.
 :::
+:::
 
 ::: {.column width="60%"}
 ![](files/bank_info3.png){width=100%}
 :::
 
 :::
+
+

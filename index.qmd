@@ -2,11 +2,9 @@
 title: Spatial Data Science Summit 2026 Reimbursement Information
 ---
 
-## Required documents:
-- Receipts for transportation/lodging. 
-- A filled [Travel reimbursement PDF form](files/Travelreimbursementform.pdf)
+This page introduces the reimbursement process for attendees of the Spatial Data Science Summit 2026. 
+Please read through the following information to ensure a smooth reimbursement experience.
 
-**Please Submit above documents through** [Submission_Link](https://docs.google.com/forms/d/e/1FAIpQLSdyrfyg2fQ36ao0fChVgRaNczODZ-5RcdQlbyN5C4Q_hmtUyQ/viewform?usp=publish-editor)
 
 ## General Process
 ### Step 1: Vendor registration email
@@ -51,9 +49,31 @@ You will be asked to complete multi-factor authentication using your phone numbe
 
 :::
 
-### Final step: Complete forms based on your tax residency
-Use the tabs above to choose your category (US Individual or International Individual). 
+### Final Step: Complete Registration Based on Your Tax Residency (Approx. 10 -15 Minutes)
 
-After registration, internal review, and approval, you will be set up as a vendor and ready for payment or reimbursement.
+Please follow the instructions according to your tax residency status to complete the registration process.
+Instructions are available under the **US Individual** and **International Individual** tabs.
+
+After submission, the SDSU Research Foundation will complete an internal review within five business days. 
+Once approved, you will be set up as a vendor and eligible for payment or reimbursement.
+
+After vendor setup and invoice submission:
+
+- Direct deposit payments are issued on Tuesdays and Thursdays.
+- Check payments are issued on Thursdays only.
 
 
+## Required documents:   
+After you have completed the vendor registration process, please submit the following documents for reimbursement:
+
+- Receipts for transportation/lodging. 
+- A filled [Travel reimbursement PDF form](files/Travelreimbursementform.pdf)
+
+**Please Submit above documents through** [Submission_Link](https://docs.google.com/forms/d/e/1FAIpQLSdyrfyg2fQ36ao0fChVgRaNczODZ-5RcdQlbyN5C4Q_hmtUyQ/viewform?usp=publish-editor)
+
+### Instructions for Completing the Travel Reimbursement Form
+Please complete the form with your personal information and travel details.
+
+- **In general, every receipt must be reflected on the form.**
+- Per diem: Enter the per diem amount for each day of travel.
+- Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
