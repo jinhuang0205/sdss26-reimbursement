@@ -2,7 +2,8 @@
 title: Spatial Data Science Summit 2026 Reimbursement Information
 ---
 
-This page introduces the reimbursement process for attendees of the Spatial Data Science Summit 2026. Please read through the following information carefully to ensure a smooth reimbursement experience.
+This page introduces the reimbursement process for attendees of the Spatial Data Science Summit 2026. 
+Please read through the following information to ensure a smooth reimbursement experience.
 
 ## General Process
 You will need to register as a vendor in PaymentWorks, which is the system we use for processing payments and reimbursements. The registration process involves several steps, including receiving an email invitation, completing the registration form, and setting up multi-factor authentication.
