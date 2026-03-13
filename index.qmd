@@ -2,12 +2,12 @@
 title: Spatial Data Science Summit 2026 Reimbursement Information
 ---
 
-This page introduces the reimbursement process for attendees of the Spatial Data Science Summit 2026. 
+This page introduces the reimbursement process for attendees of the 2026 Spatial Data Science Summit. 
 Please read through the following information to ensure a smooth reimbursement experience.
 
 
 ## General Process
-### Step 1: Vendor registration email
+### Step 1: Vendor Registration Email
 ::: {.columns}
 
 ::: {.column width="45%"}
@@ -21,12 +21,12 @@ Each attendee will receive an email invitation to register as a vendor in Paymen
 
 :::
 
-### Step 2: Register your account
+### Step 2: Register Your Account
 ::: {.columns}
 
 ::: {.column width="45%"}
 
-After completing the registration form, you will receive an activation email and log in again to continue.
+After completing the registration form, you will receive an activation email and log in once more.
 :::
 
 ::: {.column width="55%"}
@@ -63,17 +63,12 @@ After vendor setup and invoice submission:
 - Check payments are issued on Thursdays only.
 
 
-## Required documents:   
-After you have completed the vendor registration process, please submit the following documents for reimbursement:
+## Required Documents:   
+After you have completed the vendor registration process, please submit the following documents through [Submission_Link](https://docs.google.com/forms/d/e/1FAIpQLSdyrfyg2fQ36ao0fChVgRaNczODZ-5RcdQlbyN5C4Q_hmtUyQ/viewform?usp=publish-editor)
 
-- Receipts for transportation/lodging. 
-- A filled [Travel reimbursement PDF form](files/Travelreimbursementform.pdf)
-
-**Please Submit above documents through** [Submission_Link](https://docs.google.com/forms/d/e/1FAIpQLSdyrfyg2fQ36ao0fChVgRaNczODZ-5RcdQlbyN5C4Q_hmtUyQ/viewform?usp=publish-editor)
-
-### Instructions for Completing the Travel Reimbursement Form
-Please complete the form with your personal information and travel details.
-
-- **In general, every receipt must be reflected on the form.**
-- Per diem: Enter the per diem amount for each day of travel.
-- Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
+- **Receipts for transportation and lodging.**
+- **A filled [Travel Reimbursement Form](https://docs.google.com/spreadsheets/d/1gnvgH35KitXtLpwvv8E47XNK_p2g4VP9/edit?usp=sharing&ouid=106028593616508914189&rtpof=true&sd=true)**
+    - You may save a copy to your google drive and making edits. 
+    - Per diem: Enter the per diem amount for each day of travel.
+    - Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
+    - **Please ensure every receipt is reflected in the Travel Reimbursement Form.**

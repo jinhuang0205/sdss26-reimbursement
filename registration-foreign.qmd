@@ -52,7 +52,7 @@ Address where payment should be sent (e.g., check mailing address).
 
 ::: {.column width="50%"}
 ::: {.callout-note}
-- In general, you can simply complete it by following what is shown in the image.
+- Utilize the step by step guide provided in the image to assist with completion
 - If you are SDSU/SDSURF student or employee you will need to fill your sdsuid
 - These questions apply mainly to established businesses.
   - Do you accept credit cards?

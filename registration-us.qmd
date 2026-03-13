@@ -61,7 +61,7 @@ Address where payment should be sent (e.g., check mailing address).
 
 ::: {.column width="50%"}
 ::: {.callout-note}
-- In general, you can simply complete it by following what is shown in the image.
+- Utilize the step by step guide provided in the image to assist with completion
 - If you are SDSU/SDSURF student or employee you will need to fill your sdsuid
 - These questions apply mainly to established businesses.
   - Do you accept credit cards?
@@ -132,8 +132,8 @@ A document that includes **your bank routing number** and **your full bank accou
 
 ::: {.column width="40%"}
 ::: {.callout-note}
-The bank address does not have to be the branch where you originally opened your account.  
-For example, if your bank account is with **Chase**, you may enter the address of **any Chase branch that is close to you**. Or you may use the bank address listed on your bank statement.
+The bank address does not have to be from the branch where you originally opened your account.  
+For example, if your bank account is with **Chase**, you may enter the address of **any Chase branch that is close to you**. Alternatively, you may use the bank address listed on your bank statement.
 :::
 :::
 
