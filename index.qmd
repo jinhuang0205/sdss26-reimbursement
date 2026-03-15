@@ -49,7 +49,7 @@ You will be asked to complete multi-factor authentication using your phone numbe
 
 :::
 
-### Final Step: Complete Registration Based on Your Tax Residency (Approx. 10 -15 Minutes)
+### Final Step: Complete Registration Based on Your Tax Residency (Approx. 10 - 15 Minutes)
 
 Please follow the instructions according to your tax residency status to complete the registration process.
 Instructions are available under the **US Individual** and **International Individual** tabs.
@@ -68,7 +68,21 @@ After you have completed the vendor registration process, please submit the foll
 
 - **Receipts for transportation and lodging.**
 - **A filled [Travel Reimbursement Form](https://docs.google.com/spreadsheets/d/1gnvgH35KitXtLpwvv8E47XNK_p2g4VP9/edit?usp=sharing&ouid=106028593616508914189&rtpof=true&sd=true)**
-    - You may save a copy to your google drive and making edits. 
-    - Per diem: Enter the per diem amount for each day of travel.
-    - Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
-    - **Please ensure every receipt is reflected in the Travel Reimbursement Form.**
+
+### Guidelines for filling out the form:
+- You may save a copy of the reimbursement form to your google drive and making edits. 
+- Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
+- Please ensure every receipt is reflected in the Travel Reimbursement Form.
+
+- **For international attendees:**
+    - All amounts need to be shown in USD on the reimbursement forms.
+    - Accounts Payable suggests using [OANDA](https://www.oanda.com/currency-converter/en/?from=ZAR&to=USD&amount=1) to convert the amounts from your local currency to USD. For each receipt, enter the amount and date of the receipt. Take a screenshot of the conversion and upload it together with the receipt.
+
+- When finishing the form, please download it as pdf and choose paper size B4. Upload the **pdf version of the form** to the submission link above.
+
+
+## Help and Support
+If you have any questions or need assistance with the reimbursement process:
+
+- Payments, vendor onboarding, reimbursement sheet related inquiries, please contact SDSU Research Foundation Accounts Payable at sdsurfap@sdsu.edu
+- For questions about this reimbursement guidelines, please contact Jin Huang at jhuang7158@sdsu.edu
