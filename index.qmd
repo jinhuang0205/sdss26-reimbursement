@@ -70,7 +70,7 @@ After you have completed the vendor registration process, please submit the foll
 - **A filled [Travel Reimbursement Form](https://docs.google.com/spreadsheets/d/1gnvgH35KitXtLpwvv8E47XNK_p2g4VP9/edit?usp=sharing&ouid=106028593616508914189&rtpof=true&sd=true)**
 
 ### Guidelines for filling out the form:
-- You may save a copy of the reimbursement form to your google drive and making edits. 
+- **You can save a copy of the reimbursement form to your google drive and making edits.** 
 - Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
 - Please ensure every receipt is reflected in the Travel Reimbursement Form.
 
