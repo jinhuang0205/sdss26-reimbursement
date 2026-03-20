@@ -52,7 +52,7 @@ You will be asked to complete multi-factor authentication using your phone numbe
 ### Final Step: Complete Registration Based on Your Tax Residency (Approx. 10 - 15 Minutes)
 
 Please follow the instructions according to your tax residency status to complete the registration process.
-Instructions are available on this websiteunder the [US Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-us.html) and [International Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-foreign.html) tabs.(see the top of the page for navigation)
+Instructions are available on this website under the [US Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-us.html) and [International Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-foreign.html) tabs.
 
 After submission, the SDSU Research Foundation will complete an internal review within five business days. 
 Once approved, you will be set up as a vendor and eligible for payment or reimbursement.
