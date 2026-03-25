@@ -73,6 +73,11 @@ After you have completed the vendor registration process, please submit the foll
 - **You can save a copy of the reimbursement form to your google drive and making edits.** 
 - Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
 - Please ensure every receipt is reflected in the Travel Reimbursement Form.
+- Per diem policy:
+    - Per diem is included in the $2000 reimbursement limit.
+    - Per diem cannot be claimed if provided at a conference or event. 
+    - The per diem rate for San Francisco is $92 per day for meals and incidental expenses (M&IE), which includes $23 for breakfast, $26 for lunch, $38 for dinner, and $5 for incidental expenses. 
+    - On the first and last day of travel, the per diem is reduced to 75% of the daily rate, which equals $69.00.
 
 - **For international attendees:**
     - All amounts need to be shown in USD on the reimbursement forms.
