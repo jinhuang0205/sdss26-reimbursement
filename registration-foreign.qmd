@@ -1,6 +1,54 @@
 ---
-title: Reimbursement for Foreign Individual
+title: Reimbursement for International Individual
 ---
+
+## Documentations and submission links are at the end of this page. Please read this page carefully.
+
+### Step 1: Vendor Registration Email
+::: {.columns}
+
+::: {.column width="45%"}
+
+Each attendee will receive an email invitation to register as a vendor in PaymentWorks.
+:::
+
+::: {.column width="55%"}
+![](files/invitation_email.png){width=90% fig-alt="Vendor registration invitation email"}
+:::
+
+:::
+
+### Step 2: Register Your Account
+::: {.columns}
+
+::: {.column width="45%"}
+
+After completing the registration form, you will receive an activation email and log in once more.
+:::
+
+::: {.column width="55%"}
+![](files/register1.png){width=90% fig-alt="Vendor registration screen"}
+:::
+
+:::
+
+### Step 3: Multi-Factor Authentication
+::: {.columns}
+
+::: {.column width="45%"}
+
+You will be asked to complete multi-factor authentication using your phone number.
+:::
+
+::: {.column width="55%"}
+![](files/multifactor.png){width=90% fig-alt="Multi-factor authentication screen"}
+:::
+
+:::
+
+### Final Step: Complete Registration Based on Your Tax Residency (Approx. 10 - 15 Minutes)
+Following are the instructions to complete the registration process.
+
 ## For tax purposes which best describes you?
 The refund will goes directly to you, so you may choose "individual or sole proprietorship"
 ![](files/tax_info.png)
@@ -152,3 +200,35 @@ For example, if your bank account is with **Chase**, you may enter the address o
 :::
 
 :::
+
+
+## Required Documents:   
+After you have completed the vendor registration process, please submit the following documents through [International Submission_Link](https://docs.google.com/forms/d/e/1FAIpQLSd2fmeW3ro9HExFgx-v-EPc1mc1SWugzUtn376_tyjG7Tudmg/viewform?usp=header)
+
+- **Receipts for transportation and lodging.**
+- **A filled [Travel Reimbursement Form](https://docs.google.com/spreadsheets/d/1gnvgH35KitXtLpwvv8E47XNK_p2g4VP9/edit?usp=sharing&ouid=106028593616508914189&rtpof=true&sd=true)**
+- **Wire Transfer Authorization Form [PDF](./files/wire_transfer_form.pdf)** (You only need to fill the sections before 'CODING FOR WIRE')
+
+### Guidelines for filling out the Travel Reimbursement Form:
+- **You can save a copy of the reimbursement form to your google drive and make edits.** 
+- Lodging: You may enter the total lodging amount on the last day, but it is preferable to list the amount for each night separately.
+- Please ensure receipts that are larger than $75 are reflected in the Travel Reimbursement Form. 
+- Per diem policy:
+    - Per diem is included in the $2000 reimbursement limit.
+    - Per diem cannot be claimed if provided at a conference or event. 
+    - The per diem rate for San Francisco is $92 per day for meals and incidental expenses (M&IE), which includes $23 for breakfast, $26 for lunch, $38 for dinner, and $5 for incidental expenses. 
+    - On the first and last day of travel, the per diem is reduced to 75% of the daily rate, which equals $69.00.
+
+- **For international attendees:**
+    - All amounts need to be shown in USD on the reimbursement forms.
+    - Accounts Payable suggests using [OANDA](https://www.oanda.com/currency-converter/en/?from=ZAR&to=USD&amount=1) to convert the amounts from your local currency to USD. For each receipt, enter the amount and date of the receipt. Take a screenshot of the conversion and upload it together with the receipt.
+
+- When finishing the form, please download it as pdf and choose paper size B4. Upload the **pdf version of the form** to the submission link above.
+
+**Use this link to track your reimbursement status:** [Track Reimbursement](https://docs.google.com/spreadsheets/d/13y4PGKPsvlH9bAoylsK7JmHMy_HNKQimaimEGKsTdFM/edit?gid=1918778147#gid=1918778147)
+
+## Help and Support
+If you have any questions or need assistance with the reimbursement process:
+
+- Payments, vendor onboarding, reimbursement sheet related inquiries, please contact SDSU Research Foundation Accounts Payable at sdsurfap@sdsu.edu
+- For questions about this reimbursement guidelines, please contact Jin Huang at jhuang7158@sdsu.edu

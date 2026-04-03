@@ -2,8 +2,9 @@
 title: Spatial Data Science Summit 2026 Reimbursement Information
 ---
 
-This page introduces the reimbursement process for attendees of the 2026 Spatial Data Science Summit. 
-Please read through the following information to ensure a smooth reimbursement experience.
+This page introduces the reimbursement process for US attendees of the 2026 Spatial Data Science Summit. 
+
+**International reimbursement has different process, please go directly to this link and [International Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-foreign.html) for instructions.**
 
 
 ## General Process
@@ -52,16 +53,14 @@ You will be asked to complete multi-factor authentication using your phone numbe
 ### Final Step: Complete Registration Based on Your Tax Residency (Approx. 10 - 15 Minutes)
 
 Please follow the instructions according to your tax residency status to complete the registration process.
-Instructions are available on this website under the [US Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-us.html) and [International Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-foreign.html) tabs.
+Instructions are available on this website under the [US Individual](https://jinhuang0205.github.io/sdss26-reimbursement/registration-us.html) tab
 
 After submission, the SDSU Research Foundation will complete an internal review within five business days. 
 Once approved, you will be set up as a vendor and eligible for payment or reimbursement.
 
 After vendor setup and invoice submission:
-
 - Direct deposit payments are issued on Tuesdays and Thursdays.
 - Check payments are issued on Thursdays only.
-
 
 ## Required Documents:   
 After you have completed the vendor registration process, please submit the following documents through [Submission_Link](https://docs.google.com/forms/d/e/1FAIpQLSdyrfyg2fQ36ao0fChVgRaNczODZ-5RcdQlbyN5C4Q_hmtUyQ/viewform?usp=publish-editor)
@@ -78,10 +77,6 @@ After you have completed the vendor registration process, please submit the foll
     - Per diem cannot be claimed if provided at a conference or event. 
     - The per diem rate for San Francisco is $92 per day for meals and incidental expenses (M&IE), which includes $23 for breakfast, $26 for lunch, $38 for dinner, and $5 for incidental expenses. 
     - On the first and last day of travel, the per diem is reduced to 75% of the daily rate, which equals $69.00.
-
-- **For international attendees:**
-    - All amounts need to be shown in USD on the reimbursement forms.
-    - Accounts Payable suggests using [OANDA](https://www.oanda.com/currency-converter/en/?from=ZAR&to=USD&amount=1) to convert the amounts from your local currency to USD. For each receipt, enter the amount and date of the receipt. Take a screenshot of the conversion and upload it together with the receipt.
 
 - When finishing the form, please download it as pdf and choose paper size B4. Upload the **pdf version of the form** to the submission link above.
 
